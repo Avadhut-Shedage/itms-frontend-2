@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e635cde3.chunk.css",
+    "main.js": "/static/js/main.b5eb4cf1.chunk.js",
+    "main.js.map": "/static/js/main.b5eb4cf1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d25bdb82.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d25bdb82.js.map",
+    "static/css/2.f26e749f.chunk.css": "/static/css/2.f26e749f.chunk.css",
+    "static/js/2.8fc266b1.chunk.js": "/static/js/2.8fc266b1.chunk.js",
+    "static/js/2.8fc266b1.chunk.js.map": "/static/js/2.8fc266b1.chunk.js.map",
+    "static/js/3.737ea1e0.chunk.js": "/static/js/3.737ea1e0.chunk.js",
+    "static/js/3.737ea1e0.chunk.js.map": "/static/js/3.737ea1e0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.e635cde3.chunk.css.map": "/static/css/main.e635cde3.chunk.css.map",
+    "static/js/2.8fc266b1.chunk.js.LICENSE.txt": "/static/js/2.8fc266b1.chunk.js.LICENSE.txt",
+    "static/media/BodheSirImg.cd84d4dc.jpg": "/static/media/BodheSirImg.cd84d4dc.jpg",
+    "static/media/Register.css": "/static/media/Login.b2e47ea4.svg",
+    "static/media/bhapkar.b0a0451f.png": "/static/media/bhapkar.b0a0451f.png",
+    "static/media/dabhade_madam.30979f49.jpg": "/static/media/dabhade_madam.30979f49.jpg",
+    "static/media/eye-slash-solid.b46bca94.svg": "/static/media/eye-slash-solid.b46bca94.svg",
+    "static/media/eye-solid.c1c13bce.svg": "/static/media/eye-solid.c1c13bce.svg",
+    "static/media/fafat-madam.f9a646d8.jpeg": "/static/media/fafat-madam.f9a646d8.jpeg",
+    "static/media/ghode-madam.d8b666a0.svg": "/static/media/ghode-madam.d8b666a0.svg",
+    "static/media/hod.5cf48aba.png": "/static/media/hod.5cf48aba.png",
+    "static/media/kadam.27a898ac.png": "/static/media/kadam.27a898ac.png",
+    "static/media/login-icon.7898ddad.svg": "/static/media/login-icon.7898ddad.svg",
+    "static/media/raut-madam.ebf4fc77.jpg": "/static/media/raut-madam.ebf4fc77.jpg",
+    "static/media/sutar.c4374390.jpg": "/static/media/sutar.c4374390.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d25bdb82.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.8fc266b1.chunk.js",
+    "static/css/main.e635cde3.chunk.css",
+    "static/js/main.b5eb4cf1.chunk.js"
+  ]
+}
